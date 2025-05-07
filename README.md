@@ -32,7 +32,6 @@ Whether you're a beginner or just brushing up, this repo is built to help anyone
 
 * [Microsoft Learn – AZ-900 Official Path](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
 * [Exam Page: AZ-900 Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
-* Practice Tests from Whizlabs, TutorialsDojo, ExamPro, etc.
 
 ---
 
@@ -67,14 +66,8 @@ Whether you're a beginner or just brushing up, this repo is built to help anyone
 ## 👨‍💼 Author
 
 **Syed Mohammed Hussain**
-Aspiring Cloud Engineer | QA Automation Engineer | Python Learner
+ | ** Software Development Engineer in Test** |
 
-Connect with me:
-
-* [GitHub](https://github.com/MhussainD4772)
-* [LinkedIn](https://www.linkedin.com/in/your-link)
-
----
 
 > “The cloud journey begins with one commit.” — Someone probably
 
