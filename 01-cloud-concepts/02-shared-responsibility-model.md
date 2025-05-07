@@ -8,7 +8,7 @@
 
 - For example, if using Azure SQL Database (PaaS), Azure manages the database engine, but the customer is responsible for the data. If running SQL on a virtual machine (IaaS), the customer is responsible for OS patches, database management, and the data itself. The shared responsibility model ensures clarity about who handles what in cloud environments.
 
-![Cloud Chart](../assets/images/cloud-chart.png)
+![Cloud Chart](../assets/images/shared-responsibility-chart.png)
 
 ## When using a cloud provider, you’ll always be responsible for:
 
